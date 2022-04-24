@@ -1,4 +1,4 @@
-# Malpedia Feeedback and Feature Request Tracker
+# Malpedia Feedback and Feature Request Tracker
 
 This repository is intended as a public issue tracker to gather feedback for and allow discussions around [Malpedia](https://malpedia.caad.fkie.fraunhofer.de).
 
